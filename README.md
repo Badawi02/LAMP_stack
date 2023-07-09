@@ -33,7 +33,7 @@
 
 - Enter your AWS account credentials at file "terraform.tfvars" :
 <p align="center">
- <img src=""/>
+ <img src="https://github.com/Badawi02/atw_task/blob/main/ScreenShots/1.png"/>
 </p>
 
 - Build the Infrastructure
@@ -107,7 +107,7 @@
   - you can see "Hello world" and your IP and the current time
 - Output :
 <p align="center">
- <img src=""/>
+ <img src="https://github.com/Badawi02/atw_task/blob/main/ScreenShots/2.png"/>
 </p>
 
 --------------------------------------------------------------
