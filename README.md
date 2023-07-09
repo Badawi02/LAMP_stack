@@ -46,6 +46,9 @@
 ```bash
   terraform apply
 ```
+<p align="center">
+ <img src="https://github.com/Badawi02/atw_task/blob/main/ScreenShots/3.png"/>
+</p>
 --------------------------------------------------------------
 
 - Now you can check your AWS account, you can see this resources has been created:
@@ -64,7 +67,9 @@
 ```bash
   ssh -i ec2_key.pem ubuntu@< public ip of ec2 > 
 ```
-
+<p align="center">
+ <img src="https://github.com/Badawi02/atw_task/blob/main/ScreenShots/4.png"/>
+</p>
 --------------------------------------------------------------
 
 - Download The Code enter the EC2 :
@@ -81,7 +86,9 @@
 ```bash
   bash script_installation.sh
 ```
-
+<p align="center">
+ <img src="https://github.com/Badawi02/atw_task/blob/main/ScreenShots/5.png"/>
+</p>
 --------------------------------------------------------------
 
 - Configure mysql to create user with password and create database :
@@ -100,7 +107,9 @@
 ```bash
   exit;
 ```
-
+<p align="center">
+ <img src="https://github.com/Badawi02/atw_task/blob/main/ScreenShots/6.png"/>
+</p>
 --------------------------------------------------------------
 
 - Now you can hit EC2 from public ip of it then:
