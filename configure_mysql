@@ -1,0 +1,5 @@
+sudo mysql
+mysql > CREATE DATABASE testDB;
+mysql > CREATE USER 'phpUser'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
+mysql > GRANT ALL ON testDB.* TO 'phpUser'@'%';
+mysql > exit;
